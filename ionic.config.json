@@ -1,0 +1,7 @@
+{
+  "name": "maps-ionic-latest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
